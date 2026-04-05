@@ -28,7 +28,7 @@ Server Manager
 2. Promoted the server to a Domain Controller.Promotion-to-domain
 <img width="3360" height="1930" alt="image" src="https://github.com/user-attachments/assets/0c21003a-35fa-42d9-9c22-8c1116c077dc" />
 
-3.Created a new domain: School.local.Screenshot 2025-10-29 at 2 32 15 PM
+3.Created a new domain: School.local.Screenshot 
 <img width="2100" height="1868" alt="image" src="https://github.com/user-attachments/assets/a883491a-faa0-4802-a61b-bd30fe67d12a" />
 
 
